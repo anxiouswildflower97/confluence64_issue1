@@ -22,7 +22,7 @@ body {
     padding-top: 25px;
 	padding-bottom: 25px;
 
-    font-family: 'Roboto Mono';
+    font-family: 'Courier Prime';
 }
 
 .zine-content {
@@ -73,12 +73,17 @@ img {
 }
 
 h4 {
-    font-family: 'Homemade Apple';
+    font-family: 'Beth Ellen';
     font-size: 22px;
 }
 
 p {
     font-family: 'La Belle Aurore';
+    font-size: 20px;
+}
+
+.OGMemories {
+    font-family: 'Sacramento';
     font-size: 20px;
 }
 
