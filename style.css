@@ -70,6 +70,7 @@ body {
 
 img { 
     border: 10px solid saddlebrown;
+    cursor: url('./sparklyHeart.cur'), auto;
 }
 
 h4 {
@@ -77,7 +78,7 @@ h4 {
     font-size: 22px;
 }
 
-p, ol {
+p, ol, ul {
     font-family: 'La Belle Aurore';
     font-size: 20px;
 }
