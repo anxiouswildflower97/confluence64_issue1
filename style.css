@@ -78,13 +78,18 @@ h4 {
     font-size: 22px;
 }
 
-p, ol, ul {
-    font-family: 'La Belle Aurore';
+p {
+    font-family: 'Cedarville Cursive';
     font-size: 20px;
 }
 
 .OGMemories {
-    font-family: 'Sacramento';
+    font-family: 'Square Peg';
+    font-size: 22px;
+}
+
+.daytripper {
+    font-family: 'Caveat';
     font-size: 20px;
 }
 
