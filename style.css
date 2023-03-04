@@ -22,7 +22,7 @@ body {
     padding-top: 25px;
 	padding-bottom: 25px;
 
-    font-family: 'Courier Prime';
+    font-family: 'Syne Mono';
 }
 
 .zine-content {
@@ -73,6 +73,10 @@ img {
     cursor: url('./sparklyHeart.cur'), auto;
 }
 
+.introtext {
+    font-family: 'Caveat';
+}
+
 h4 {
     font-family: 'Beth Ellen';
     font-size: 22px;
@@ -84,12 +88,12 @@ p {
 }
 
 .OGMemories {
-    font-family: 'Square Peg';
+    font-family: 'Dawning of a New Day';
     font-size: 22px;
 }
 
 .daytripper {
-    font-family: 'Caveat';
-    font-size: 20px;
+    font-family: 'Cutive Mono';
+    font-size: 18px;
 }
 

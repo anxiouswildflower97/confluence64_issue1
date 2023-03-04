@@ -1,5 +1,5 @@
 body {
-	background-image: url('./assets/fall2021/station-akino-meadow/fall_2021_background.JPG');
+	background-image: url('./assets/fall2021/station-akino-meadow/meadow_lake_3.JPG');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -109,7 +109,7 @@ img {
 }
 
 .text {
-	font-family: 'La Belle Aurore';
+	font-family: 'Nothing You Could Do';
 }
 
 /* button */
@@ -135,5 +135,5 @@ img {
     background-color: #ECF9FF;
     box-shadow: 0 5px #D1E8E4;
     transform: translateY(10px);
-  }
+}
   
