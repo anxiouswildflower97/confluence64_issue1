@@ -31,7 +31,7 @@ figure {
 	padding-bottom: 50px;
 }
 
-h1 {
+h1, h3 {
 	font-family: 'Beth Ellen';
     color: white;
 }
